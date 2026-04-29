@@ -53,6 +53,13 @@ Repository ini berisi dokumentasi pengalaman saya sebagai IT Support dalam menan
 
 ---
 
+## 🛠️ Tools & Environment
+- Windows OS
+- Router & Wi-Fi Network
+- Printer (USB & Network)
+- CCTV System (DVR/NVR)
+- EDC Machine & QRIS System
+  
 ## 👨‍💻 Author
 
 Anwan Chailes
