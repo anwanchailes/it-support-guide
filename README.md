@@ -7,7 +7,12 @@ Repository ini berisi dokumentasi pengalaman saya sebagai IT Support dalam menan
 * Membantu proses troubleshooting lebih cepat
 * Menyediakan panduan step-by-step untuk masalah umum
 * Dokumentasi knowledge IT Support berbasis pengalaman langsung
-
+  
+## 🚀 Impact
+- Membantu mempercepat proses troubleshooting hingga lebih efisien  
+- Mengurangi downtime operasional perangkat di lingkungan toko  
+- Menjadi referensi troubleshooting untuk masalah yang berulang
+  
 ---
 
 ## 🔧 Covered Topics
