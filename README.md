@@ -1,4 +1,4 @@
-# IT Support Troubleshooting & Setup Guide
+# IT Support Knowledge Base & Troubleshooting Guide
 
 Repository ini berisi dokumentasi pengalaman saya sebagai IT Support dalam menangani berbagai masalah teknis di lingkungan operasional toko.
 
